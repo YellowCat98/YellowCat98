@@ -2,7 +2,7 @@
 
 i'm YellowCat98
 
-I made ProfileBio
+i absolutely love c++
 
 <!---
 YellowCat98/YellowCat98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
